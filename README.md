@@ -1,14 +1,15 @@
-# Install
+# About
+
+This is a starter template for react apps.
+
+# Run
+
+For using this application. You need to clone it and install all the packages by running the below command.
+
 ```
-yarn 
+yarn
 ```
 
-# Usage
+# Build
 
-- Using App.js as Root conponent, which provide router and context.
-
-- Context folder include store and actions, each action will trigger setState of App.js component.
-
-- Store is the App.js component state, using it as the global state.
-
-- Using Comsumer in child components which can fetch state from global state.
+For running this application, just choose your environment and run below commands.
